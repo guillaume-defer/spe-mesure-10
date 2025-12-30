@@ -1,0 +1,14 @@
+{
+  "abonnes": [
+    {
+      "email": "votre.email@example.com",
+      "nom": "Administrateur SPE",
+      "perimetres": ["ALL"],
+      "actif": true
+    }
+  ],
+  "parametres": {
+    "sender_email": "SPE Monitor <onboarding@resend.dev>",
+    "subject_prefix": "[SPE Monitor]"
+  }
+}

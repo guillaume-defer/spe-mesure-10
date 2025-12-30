@@ -1,0 +1,12 @@
+{
+  "name": "spe-monitor",
+  "version": "2.0.0",
+  "description": "Surveillance des établissements SPE - Alertes email via Resend",
+  "type": "module",
+  "scripts": {
+    "monitor": "node monitor.js",
+    "dry-run": "node monitor.js --dry-run"
+  },
+  "author": "DGAL",
+  "license": "MIT"
+}
