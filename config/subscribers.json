@@ -1,8 +1,14 @@
 {
   "abonnes": [
     {
-      "email": "votre.email@example.com",
-      "nom": "Administrateur SPE",
+      "email": "guillaume.defer@agriculture.gouv.fr",
+      "nom": "Guillaume DEFER",
+      "perimetres": ["ALL"],
+      "actif": true
+    },
+    {
+      "email": "guillaumedefer@outlook.fr",
+      "nom": "Guillaume DEFER (perso)",
       "perimetres": ["ALL"],
       "actif": true
     }
