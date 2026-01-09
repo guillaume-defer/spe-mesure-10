@@ -18,7 +18,7 @@ const __dirname = path.dirname(__filename);
 
 // Configuration
 const API_BASE = 'https://tabular-api.data.gouv.fr/api/resources';
-const RESOURCE_ID = '408dca92-9028-4f66-93bf-f671111393ec'; // Registre national des cantines
+const RESOURCE_ID = '3f73d129-6b24-45cd-95e9-9bacc216d9d9'; // Registre national des cantines
 const DATA_DIR = path.join(__dirname, 'data');
 const CONFIG_DIR = path.join(__dirname, 'config');
 
