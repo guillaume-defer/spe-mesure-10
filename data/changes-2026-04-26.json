@@ -1,0 +1,163 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 92211,
+      "etablissement": {
+        "__id": 28988,
+        "id": 92211,
+        "name": "SKOLAJ DIWAN PENN AR BED Gwiseni",
+        "siret": "35380284600041",
+        "siren_unite_legale": null,
+        "city": "Guissény",
+        "city_insee_code": "29077",
+        "postal_code": "29880",
+        "epci": "242900793",
+        "epci_lib": "CC Communauté Lesneven Côte des Légendes",
+        "pat_list": "5157",
+        "pat_lib_list": "PAT du Département du Finistère",
+        "department": "29",
+        "department_lib": "Finistère",
+        "region": "53",
+        "region_lib": "Bretagne",
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": "47718101002857",
+        "groupe_id": null,
+        "daily_meal_count": 120,
+        "yearly_meal_count": 14303,
+        "sector_list": "Secondaire collège",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": true,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2024-03-25T12:04:54.689806+01:00",
+        "modification_date": "2026-04-25T12:28:43.210674+02:00"
+      },
+      "ministere": null,
+      "region": "Bretagne",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "daily_meal_count",
+          "label": "Couverts/jour",
+          "ancienne_valeur": 130,
+          "nouvelle_valeur": 120
+        },
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 23215,
+          "nouvelle_valeur": 14303
+        }
+      ]
+    },
+    {
+      "id": 116964,
+      "etablissement": {
+        "__id": 40676,
+        "id": 116964,
+        "name": "OGEC Ecole St-Joseph",
+        "siret": "77782790800016",
+        "siren_unite_legale": null,
+        "city": "Kergrist",
+        "city_insee_code": "56093",
+        "postal_code": "56300",
+        "epci": "245614433",
+        "epci_lib": "CC Pontivy Communauté",
+        "pat_list": "6086",
+        "pat_lib_list": "PAT de Pontivy Communauté",
+        "department": "56",
+        "department_lib": "Morbihan",
+        "region": "53",
+        "region_lib": "Bretagne",
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": "21560146900012",
+        "groupe_id": null,
+        "daily_meal_count": 40,
+        "yearly_meal_count": 5760,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2025-02-20T08:29:27.40028+01:00",
+        "modification_date": "2026-04-25T08:30:05.724604+02:00"
+      },
+      "ministere": null,
+      "region": "Bretagne",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 5400,
+          "nouvelle_valeur": 5760
+        }
+      ]
+    },
+    {
+      "id": 117150,
+      "etablissement": {
+        "__id": 40852,
+        "id": 117150,
+        "name": "RESIDENCE D'EGLANTINE",
+        "siret": "34463532100013",
+        "siren_unite_legale": null,
+        "city": "Neuilly-Plaisance",
+        "city_insee_code": "93049",
+        "postal_code": "93360",
+        "epci": "200054781",
+        "epci_lib": "Métropole du Grand Paris",
+        "pat_list": "1440",
+        "pat_lib_list": "PAT du Département de Seine-Saint-Denis",
+        "department": "93",
+        "department_lib": "Seine-Saint-Denis",
+        "region": "11",
+        "region_lib": "Île-de-France",
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 88,
+        "yearly_meal_count": 32120,
+        "sector_list": "Autres établissements de soins",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2025-02-21T10:17:18.470884+01:00",
+        "modification_date": "2026-04-25T13:13:50.894573+02:00"
+      },
+      "ministere": null,
+      "region": "Île-de-France",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 16060,
+          "nouvelle_valeur": 32120
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-04-26T07:54:29.673Z"
+}
