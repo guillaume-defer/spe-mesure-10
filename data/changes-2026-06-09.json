@@ -1,0 +1,99 @@
+{
+  "nouveaux": [
+    {
+      "id": 153665,
+      "etablissement": {
+        "__id": 66062,
+        "id": 153665,
+        "name": "GROUPEMENT DE COOPERATION MEDICO SOCIAL LES 3S",
+        "siret": "51867626700058",
+        "siren_unite_legale": null,
+        "city": "SARREBOURG",
+        "city_insee_code": "57630",
+        "postal_code": "57400",
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 600,
+        "yearly_meal_count": 130000,
+        "sector_list": "ESAT / Etablissements spécialisés",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-06-08T10:53:04.453715+02:00",
+        "modification_date": "2026-06-08T10:53:04.453726+02:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "modifies": [
+    {
+      "id": 113917,
+      "etablissement": {
+        "__id": 38389,
+        "id": 113917,
+        "name": "COMMUNE DE BOUILLE MENARD",
+        "siret": "21490036700019",
+        "siren_unite_legale": null,
+        "city": "Bouillé-Ménard",
+        "city_insee_code": "49036",
+        "postal_code": "49520",
+        "epci": "244900809",
+        "epci_lib": "CC Anjou Bleu Communauté",
+        "pat_list": "1593",
+        "pat_lib_list": "PAT du PETR du Segréen",
+        "department": "49",
+        "department_lib": "Maine-et-Loire",
+        "region": "52",
+        "region_lib": "Pays de la Loire",
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 55,
+        "yearly_meal_count": 3783,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2025-01-16T10:29:29.94121+01:00",
+        "modification_date": "2026-06-08T14:24:34.847285+02:00"
+      },
+      "ministere": null,
+      "region": "Pays de la Loire",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 3727,
+          "nouvelle_valeur": 3783
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-06-09T10:03:49.319Z"
+}
