@@ -1,0 +1,57 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 14834,
+      "etablissement": {
+        "__id": 6108,
+        "id": 14834,
+        "name": "Ecole primaire de Bray-en-Val",
+        "siret": "20006368300045",
+        "siren_unite_legale": null,
+        "city": "Bray-Saint-Aignan",
+        "city_insee_code": "45051",
+        "postal_code": "45460",
+        "epci": "200070100",
+        "epci_lib": "CC du Val de Sully",
+        "pat_list": "1379,1380",
+        "pat_lib_list": "PAT du Département du Loiret,PETR Forêt d'Orléans Loire Sologne",
+        "department": "45",
+        "department_lib": "Loiret",
+        "region": "24",
+        "region_lib": "Centre-Val de Loire",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 135,
+        "yearly_meal_count": 8694,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-07-07T09:10:34.296727+02:00",
+        "modification_date": "2026-06-14T17:01:33.118797+02:00"
+      },
+      "ministere": null,
+      "region": "Centre-Val de Loire",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 7811,
+          "nouvelle_valeur": 8694
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-06-15T12:36:38.625Z"
+}
