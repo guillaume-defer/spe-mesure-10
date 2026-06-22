@@ -1,0 +1,99 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 146044,
+      "etablissement": {
+        "__id": 59911,
+        "id": 146044,
+        "name": "RESIDENCE LES OURNEAUX",
+        "siret": "24790010300026",
+        "siren_unite_legale": null,
+        "city": "ECHIRE",
+        "city_insee_code": "79109",
+        "postal_code": "79410",
+        "epci": "200041317",
+        "epci_lib": "CA du Niortais",
+        "pat_list": "1516,5141",
+        "pat_lib_list": "PAT du Département des Deux-Sèvres,PAT Niort Agglo - Haut Val de Sèvre",
+        "department": "79",
+        "department_lib": "Deux-Sèvres",
+        "region": "75",
+        "region_lib": "Nouvelle-Aquitaine",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 112,
+        "yearly_meal_count": 36500,
+        "sector_list": "EHPAD / maisons de retraite / foyers de personnes âgées",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-03-12T10:09:02.113412+01:00",
+        "modification_date": "2026-06-21T14:25:23.999092+02:00"
+      },
+      "ministere": null,
+      "region": "Nouvelle-Aquitaine",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 1344,
+          "nouvelle_valeur": 36500
+        }
+      ]
+    }
+  ],
+  "supprimes": [
+    {
+      "id": "146665",
+      "etablissement": {
+        "__id": 60384,
+        "id": 146665,
+        "name": "ASSOCIATION MONTESSORI DU VALROMEY (A.M.V.)",
+        "siret": "38956835300020",
+        "siren_unite_legale": null,
+        "city": "CHAMPAGNE-EN-VALROMEY",
+        "city_insee_code": "01079",
+        "postal_code": "01260",
+        "epci": "200040350",
+        "epci_lib": "CC Bugey Sud",
+        "pat_list": "1265",
+        "pat_lib_list": "PAAT de la communauté de communes Bugey-Sud",
+        "department": "01",
+        "department_lib": "Ain",
+        "region": "84",
+        "region_lib": "Auvergne-Rhône-Alpes",
+        "economic_model": "private",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 85,
+        "yearly_meal_count": 12240,
+        "sector_list": "Autres structures d'enseignement",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-03-16T10:30:28.433108+01:00",
+        "modification_date": "2026-03-26T14:37:34.355408+01:00"
+      },
+      "ministere": null,
+      "region": "Auvergne-Rhône-Alpes"
+    }
+  ],
+  "timestamp": "2026-06-22T12:22:41.286Z"
+}
