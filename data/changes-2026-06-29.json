@@ -1,0 +1,99 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 111073,
+      "etablissement": {
+        "__id": 36669,
+        "id": 111073,
+        "name": "Restaurant scolaire DAUMERAY",
+        "siret": "20006456600017",
+        "siren_unite_legale": null,
+        "city": "Morannes sur Sarthe-Daumeray",
+        "city_insee_code": "49220",
+        "postal_code": "49640",
+        "epci": "200068955",
+        "epci_lib": "CC Anjou Loir et Sarthe",
+        "pat_list": "1588",
+        "pat_lib_list": "PAT de la Communauté de communes Anjou Loir et Sarthe",
+        "department": "49",
+        "department_lib": "Maine-et-Loire",
+        "region": "52",
+        "region_lib": "Pays de la Loire",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 100,
+        "yearly_meal_count": 14000,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2024-10-17T07:58:38.339391+02:00",
+        "modification_date": "2026-06-29T01:57:41.895505+02:00"
+      },
+      "ministere": null,
+      "region": "Pays de la Loire",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "sector_list",
+          "label": "Secteur",
+          "ancienne_valeur": "Autres établissements non listés",
+          "nouvelle_valeur": "Ecole primaire (maternelle et élémentaire)"
+        }
+      ]
+    }
+  ],
+  "supprimes": [
+    {
+      "id": "43577",
+      "etablissement": {
+        "__id": 14707,
+        "id": 43577,
+        "name": "Collège Antoine Delafont",
+        "siret": "19160032900012",
+        "siren_unite_legale": null,
+        "city": null,
+        "city_insee_code": null,
+        "postal_code": null,
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": null,
+        "management_type": null,
+        "production_type": null,
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 1,
+        "yearly_meal_count": null,
+        "sector_list": "Secondaire collège",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-10-25T12:07:15.10623+02:00",
+        "modification_date": "2026-03-20T22:56:59.850878+01:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "timestamp": "2026-06-29T11:17:03.310Z"
+}
