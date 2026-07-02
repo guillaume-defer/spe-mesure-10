@@ -1,0 +1,181 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 3174,
+      "etablissement": {
+        "__id": 2297,
+        "id": 3174,
+        "name": "COMMUNE DE LAGRAULET DU GERS",
+        "siret": "21320180900018",
+        "siren_unite_legale": null,
+        "city": "Lagraulet-du-Gers",
+        "city_insee_code": "32180",
+        "postal_code": "32330",
+        "epci": "243200417",
+        "epci_lib": "CC de la Tenarèze",
+        "pat_list": "1551,1553",
+        "pat_lib_list": "PAT du Département du Gers,PAT du PETR du Pays d'Armagnac",
+        "department": "32",
+        "department_lib": "Gers",
+        "region": "76",
+        "region_lib": "Occitanie",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 70,
+        "yearly_meal_count": 13000,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": "https://cellar-c2.services.clever-cloud.com/ma-cantine-egalim-prod/media/5fee258c-84e6-4392-8d86-18ad020aa273.png",
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-04-22T15:28:16.999161+02:00",
+        "modification_date": "2026-07-01T13:36:01.089955+02:00"
+      },
+      "ministere": null,
+      "region": "Occitanie",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 17280,
+          "nouvelle_valeur": 13000
+        }
+      ]
+    },
+    {
+      "id": 108484,
+      "etablissement": {
+        "__id": 35026,
+        "id": 108484,
+        "name": "Ecole A.Levaufre",
+        "siret": "21500165200019",
+        "siren_unite_legale": null,
+        "city": "Donville-les-Bains",
+        "city_insee_code": "50165",
+        "postal_code": "50350",
+        "epci": "200042604",
+        "epci_lib": "CC de Granville, Terre et Mer",
+        "pat_list": "1470",
+        "pat_lib_list": "PAT de la Communauté de communes de Granville Terre et Mer",
+        "department": "50",
+        "department_lib": "Manche",
+        "region": "28",
+        "region_lib": "Normandie",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 150,
+        "yearly_meal_count": 11802,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2024-06-07T11:45:13.938173+02:00",
+        "modification_date": "2026-07-01T10:39:07.751859+02:00"
+      },
+      "ministere": null,
+      "region": "Normandie",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 9446,
+          "nouvelle_valeur": 11802
+        }
+      ]
+    },
+    {
+      "id": 153600,
+      "etablissement": {
+        "__id": 65981,
+        "id": 153600,
+        "name": "Cantine la Trimouille",
+        "siret": null,
+        "siren_unite_legale": "218602738",
+        "city": "La Trimouille",
+        "city_insee_code": "86273",
+        "postal_code": "86290",
+        "epci": "200070043",
+        "epci_lib": "CC Vienne et Gartempe",
+        "pat_list": "1519",
+        "pat_lib_list": "PAT de la Communauté de communes Vienne et Gartempe",
+        "department": "86",
+        "department_lib": "Vienne",
+        "region": "75",
+        "region_lib": "Nouvelle-Aquitaine",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 70,
+        "yearly_meal_count": 9700,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-05-06T10:21:02.570096+02:00",
+        "modification_date": "2026-07-01T10:33:48.733261+02:00"
+      },
+      "ministere": null,
+      "region": "Nouvelle-Aquitaine",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "name",
+          "label": "Nom",
+          "ancienne_valeur": "MAIRIE",
+          "nouvelle_valeur": "Cantine la Trimouille"
+        },
+        {
+          "champ": "siret",
+          "label": "SIRET",
+          "ancienne_valeur": "21860273800013",
+          "nouvelle_valeur": null
+        },
+        {
+          "champ": "city",
+          "label": "Ville",
+          "ancienne_valeur": "LA TRIMOUILLE",
+          "nouvelle_valeur": "La Trimouille"
+        },
+        {
+          "champ": "department_lib",
+          "label": "Département",
+          "ancienne_valeur": null,
+          "nouvelle_valeur": "Vienne"
+        },
+        {
+          "champ": "region_lib",
+          "label": "Région",
+          "ancienne_valeur": null,
+          "nouvelle_valeur": "Nouvelle-Aquitaine"
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-07-02T09:31:32.885Z"
+}
