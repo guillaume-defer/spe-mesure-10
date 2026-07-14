@@ -1,0 +1,107 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 1316,
+      "etablissement": {
+        "__id": 749,
+        "id": 1316,
+        "name": "Cantine Ecole du Moulin",
+        "siret": "21180089100023",
+        "siren_unite_legale": null,
+        "city": "Épineuil-le-Fleuriel",
+        "city_insee_code": "18089",
+        "postal_code": "18360",
+        "epci": "200049484",
+        "epci_lib": "CC Berry Grand Sud",
+        "pat_list": "1360",
+        "pat_lib_list": "Syndicat Mixte de développement du Pays Berry Saint Amandois",
+        "department": "18",
+        "department_lib": "Cher",
+        "region": "24",
+        "region_lib": "Centre-Val de Loire",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 27,
+        "yearly_meal_count": 1950,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": true,
+        "declaration_donnees_2023": true,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-02-28T18:53:45.355163+01:00",
+        "modification_date": "2026-07-13T17:34:30.910117+02:00"
+      },
+      "ministere": null,
+      "region": "Centre-Val de Loire",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 3900,
+          "nouvelle_valeur": 1950
+        }
+      ]
+    },
+    {
+      "id": 132232,
+      "etablissement": {
+        "__id": 51134,
+        "id": 132232,
+        "name": "Maternelle Villeneuve de la Raho",
+        "siret": "21660227600034",
+        "siren_unite_legale": null,
+        "city": "Villeneuve-de-la-Raho",
+        "city_insee_code": "66227",
+        "postal_code": "66180",
+        "epci": "200027183",
+        "epci_lib": "CU Perpignan Méditerranée Métropole",
+        "pat_list": "1570",
+        "pat_lib_list": "PAT Mangeons local 66",
+        "department": "66",
+        "department_lib": "Pyrénées-Orientales",
+        "region": "76",
+        "region_lib": "Occitanie",
+        "economic_model": "public",
+        "management_type": "conceded",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": "66202519628666",
+        "groupe_id": null,
+        "daily_meal_count": 102,
+        "yearly_meal_count": 14688,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2025-04-01T17:23:25.272472+02:00",
+        "modification_date": "2026-07-13T09:57:53.481053+02:00"
+      },
+      "ministere": null,
+      "region": "Occitanie",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "name",
+          "label": "Nom",
+          "ancienne_valeur": "Materenelle Villeneuce de la Raho",
+          "nouvelle_valeur": "Maternelle Villeneuve de la Raho"
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-07-14T08:23:44.657Z"
+}
