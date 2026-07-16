@@ -1,0 +1,48 @@
+{
+  "nouveaux": [
+    {
+      "id": 153805,
+      "etablissement": {
+        "__id": 66124,
+        "id": 153805,
+        "name": "MAIRIE",
+        "siret": "21030057000012",
+        "siren_unite_legale": null,
+        "city": "LA CHAPELLE-AUX-CHASSES",
+        "city_insee_code": "03057",
+        "postal_code": "03230",
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 12,
+        "yearly_meal_count": 1875,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-07-15T16:21:04.374776+02:00",
+        "modification_date": "2026-07-15T16:21:04.374782+02:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "modifies": [],
+  "supprimes": [],
+  "timestamp": "2026-07-16T08:29:53.262Z"
+}
