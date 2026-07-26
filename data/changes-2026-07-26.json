@@ -1,0 +1,57 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 61462,
+      "etablissement": {
+        "__id": 16717,
+        "id": 61462,
+        "name": "La Pause de P'tits Gourmands",
+        "siret": "21410158600011",
+        "siren_unite_legale": null,
+        "city": "Naveil",
+        "city_insee_code": "41158",
+        "postal_code": "41100",
+        "epci": "200072072",
+        "epci_lib": "CA Territoires Vendômois",
+        "pat_list": "1377",
+        "pat_lib_list": "Syndicat Mixte du Pays Vendômois",
+        "department": "41",
+        "department_lib": "Loir-et-Cher",
+        "region": "24",
+        "region_lib": "Centre-Val de Loire",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 154,
+        "yearly_meal_count": 22148,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": true,
+        "declaration_donnees_2022": true,
+        "declaration_donnees_2023": true,
+        "declaration_donnees_2024": true,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-11-09T08:08:46.204653+01:00",
+        "modification_date": "2026-07-25T16:40:23.023865+02:00"
+      },
+      "ministere": null,
+      "region": "Centre-Val de Loire",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "name",
+          "label": "Nom",
+          "ancienne_valeur": "Restaurant scolaire",
+          "nouvelle_valeur": "La Pause de P'tits Gourmands"
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-07-26T08:42:21.535Z"
+}
