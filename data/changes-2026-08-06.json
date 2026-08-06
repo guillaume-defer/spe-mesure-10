@@ -1,0 +1,48 @@
+{
+  "nouveaux": [
+    {
+      "id": 153852,
+      "etablissement": {
+        "__id": 66164,
+        "id": 153852,
+        "name": "Ecole Publique de Gouex",
+        "siret": null,
+        "siren_unite_legale": "218601078",
+        "city": "Gouex",
+        "city_insee_code": "86107",
+        "postal_code": "86320",
+        "epci": "200070043",
+        "epci_lib": "CC Vienne et Gartempe",
+        "pat_list": "1519",
+        "pat_lib_list": "PAT de la Communauté de communes Vienne et Gartempe",
+        "department": "86",
+        "department_lib": "Vienne",
+        "region": "75",
+        "region_lib": "Nouvelle-Aquitaine",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 23,
+        "yearly_meal_count": 3312,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-08-05T10:54:28.829958+02:00",
+        "modification_date": "2026-08-05T10:54:30.069945+02:00"
+      },
+      "ministere": null,
+      "region": "Nouvelle-Aquitaine"
+    }
+  ],
+  "modifies": [],
+  "supprimes": [],
+  "timestamp": "2026-08-06T08:54:33.605Z"
+}
