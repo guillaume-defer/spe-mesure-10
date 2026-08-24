@@ -1,0 +1,57 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 3466,
+      "etablissement": {
+        "__id": 2562,
+        "id": 3466,
+        "name": "COMMUNE DE LES ORRES",
+        "siret": "21050098900012",
+        "siren_unite_legale": null,
+        "city": "Les Orres",
+        "city_insee_code": "05098",
+        "postal_code": "05200",
+        "epci": "200067742",
+        "epci_lib": "CC Serre-Ponçon",
+        "pat_list": "1618",
+        "pat_lib_list": "PAT du département des Hautes-Alpes",
+        "department": "05",
+        "department_lib": "Hautes-Alpes",
+        "region": "93",
+        "region_lib": "Provence-Alpes-Côte d'Azur",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 31,
+        "yearly_meal_count": 4320,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": "https://cellar-c2.services.clever-cloud.com/ma-cantine-egalim-prod/media/121977cb-4fa2-4fb4-9442-c55f58dc0fe9.png",
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-04-22T15:28:35.096501+02:00",
+        "modification_date": "2026-08-23T18:50:59.194813+02:00"
+      },
+      "ministere": null,
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 5400,
+          "nouvelle_valeur": 4320
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-08-24T07:15:27.884Z"
+}
