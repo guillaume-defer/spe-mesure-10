@@ -1,0 +1,57 @@
+{
+  "nouveaux": [],
+  "modifies": [
+    {
+      "id": 21736,
+      "etablissement": {
+        "__id": 7816,
+        "id": 21736,
+        "name": "MAIRIE",
+        "siret": "21170208900015",
+        "siren_unite_legale": null,
+        "city": "Longèves",
+        "city_insee_code": "17208",
+        "postal_code": "17230",
+        "epci": "200041499",
+        "epci_lib": "CC Aunis Atlantique",
+        "pat_list": "5553",
+        "pat_lib_list": "PAT La Rochelle-Aunis-Ré",
+        "department": "17",
+        "department_lib": "Charente-Maritime",
+        "region": "75",
+        "region_lib": "Nouvelle-Aquitaine",
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 67,
+        "yearly_meal_count": 1250,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": true,
+        "active_on_ma_cantine": true,
+        "creation_date": "2022-08-17T10:02:00.496781+02:00",
+        "modification_date": "2026-09-05T12:08:28.49036+02:00"
+      },
+      "ministere": null,
+      "region": "Nouvelle-Aquitaine",
+      "ancienMinistere": null,
+      "modifications": [
+        {
+          "champ": "yearly_meal_count",
+          "label": "Couverts/an",
+          "ancienne_valeur": 6860,
+          "nouvelle_valeur": 1250
+        }
+      ]
+    }
+  ],
+  "supprimes": [],
+  "timestamp": "2026-09-06T10:45:35.844Z"
+}
