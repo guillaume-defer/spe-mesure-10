@@ -1,0 +1,48 @@
+{
+  "nouveaux": [
+    {
+      "id": 154056,
+      "etablissement": {
+        "__id": 66243,
+        "id": 154056,
+        "name": "ECOLE PRIMAIRE",
+        "siret": "21470305000028",
+        "siren_unite_legale": null,
+        "city": "TAYRAC",
+        "city_insee_code": "47305",
+        "postal_code": "47270",
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": "public",
+        "management_type": "direct",
+        "production_type": "site",
+        "central_producer_siret": null,
+        "groupe_id": null,
+        "daily_meal_count": 25,
+        "yearly_meal_count": 576,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-09-13T18:39:10.037035+02:00",
+        "modification_date": "2026-09-13T18:39:10.037048+02:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "modifies": [],
+  "supprimes": [],
+  "timestamp": "2026-09-14T12:28:33.845Z"
+}
