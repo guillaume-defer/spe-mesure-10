@@ -1,0 +1,48 @@
+{
+  "nouveaux": [
+    {
+      "id": 154111,
+      "etablissement": {
+        "__id": 66275,
+        "id": 154111,
+        "name": "Cantine scolaire municipale",
+        "siret": "21140257300011",
+        "siren_unite_legale": null,
+        "city": "EVRECY",
+        "city_insee_code": "14257",
+        "postal_code": "14210",
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": "public",
+        "management_type": "conceded",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": "34106769200440",
+        "groupe_id": null,
+        "daily_meal_count": 235,
+        "yearly_meal_count": 35000,
+        "sector_list": "Ecole primaire (maternelle et élémentaire)",
+        "line_ministry": null,
+        "logo": "https://cellar-c2.services.clever-cloud.com/ma-cantine-egalim-prod/media/f4e82e66-92ad-491d-b5d7-f43149a37fc5.png",
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-09-26T09:14:00.380956+02:00",
+        "modification_date": "2026-09-26T09:34:31.857068+02:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "modifies": [],
+  "supprimes": [],
+  "timestamp": "2026-09-27T11:51:44.822Z"
+}
