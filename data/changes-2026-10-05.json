@@ -1,0 +1,48 @@
+{
+  "nouveaux": [
+    {
+      "id": 154143,
+      "etablissement": {
+        "__id": 66302,
+        "id": 154143,
+        "name": "GARIG",
+        "siret": "49219263800079",
+        "siren_unite_legale": null,
+        "city": "AIX-EN-PROVENCE",
+        "city_insee_code": "13001",
+        "postal_code": "13080",
+        "epci": null,
+        "epci_lib": null,
+        "pat_list": null,
+        "pat_lib_list": null,
+        "department": null,
+        "department_lib": null,
+        "region": null,
+        "region_lib": null,
+        "economic_model": "public",
+        "management_type": "conceded",
+        "production_type": "site_cooked_elsewhere",
+        "central_producer_siret": "49219263800202",
+        "groupe_id": null,
+        "daily_meal_count": 3200,
+        "yearly_meal_count": 832000,
+        "sector_list": "Ecole primaire (maternelle et élémentaire),EHPAD / maisons de retraite / foyers de personnes âgées,Crèche",
+        "line_ministry": null,
+        "logo": null,
+        "declaration_donnees_2021": false,
+        "declaration_donnees_2022": false,
+        "declaration_donnees_2023": false,
+        "declaration_donnees_2024": false,
+        "declaration_donnees_2025": false,
+        "active_on_ma_cantine": true,
+        "creation_date": "2026-10-04T17:55:00.3729+02:00",
+        "modification_date": "2026-10-04T17:55:00.372906+02:00"
+      },
+      "ministere": null,
+      "region": null
+    }
+  ],
+  "modifies": [],
+  "supprimes": [],
+  "timestamp": "2026-10-05T14:16:23.958Z"
+}
